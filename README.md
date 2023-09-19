@@ -1,5 +1,5 @@
 # SNAKE GAME
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/var/folders/b6/l8rlv8595kd_qf04ld4ftg4w0000gn/T/TemporaryItems/NSIRD_screencaptureui_df35B0/Screenshot%25202023-09-19%2520at%25202.20.58%2520PM.png?version%253D1695147677439)
+![Alt text](https://user-images.githubusercontent.com/42774502/269058153-ffb41a19-0a06-4958-a238-e96af4cf140a.png)
 
 This is a classic Snake game built with Ruby and Ruby2D library. The game allows the player to control a snake to eat food and grow longer. The game ends when the snake hits the wall or itself.
 
